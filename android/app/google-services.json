@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "681268058315",
+    "project_id": "facedetection-37ac2",
+    "storage_bucket": "facedetection-37ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681268058315:android:41305fe32e5dd31dc2e34e",
+        "android_client_info": {
+          "package_name": "com.example.face_detecting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681268058315-h7s03qcfh1rnjuor5r35m6alkid1jsel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3hGs_zhpTXwAd-w7JpHcDLyrkuTVCfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681268058315-h7s03qcfh1rnjuor5r35m6alkid1jsel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681268058315:android:946ff91c16b86068c2e34e",
+        "android_client_info": {
+          "package_name": "net.cubiclab.cameraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681268058315-h7s03qcfh1rnjuor5r35m6alkid1jsel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3hGs_zhpTXwAd-w7JpHcDLyrkuTVCfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681268058315-h7s03qcfh1rnjuor5r35m6alkid1jsel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
